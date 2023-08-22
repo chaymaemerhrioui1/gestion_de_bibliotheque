@@ -1,0 +1,195 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Description</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+        /* styles.css */
+.moderncss {
+    display: flex;
+    align-items: center; /* Aligner les éléments verticalement */
+}
+
+.image {
+    flex:1 ; /* Prendre 50% de l'espace disponible (pour laisser de la place à la description à droite) */
+}
+
+.image img {
+    max-width: 40%;
+    margin-top: 200px;
+    margin-left: 130px;
+}
+
+.description {
+    flex: 1; /* Prendre 50% de l'espace disponible */
+     /* Ajouter de l'espace entre l'image et la description */
+    margin-top: 200px;
+    margin-left: 20px;
+}
+.main{
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: 100vh;
+            background-image: url(image/bg.png);
+            background-size: cover;
+            background-position: center;
+            box-sizing: border-box;
+    font-family: sans-serif;
+        }
+
+        section nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 0 10px #ff7200;
+    background: #fff;
+    position: fixed;
+    left: 0;
+    z-index: 100;
+}
+
+section nav .logo img{
+    width: 100px;
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+section nav ul{
+    list-style: none;
+}
+
+section nav li{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+section nav li a{
+    text-decoration: none;
+    color: #000;
+}
+
+section nav li a:hover{
+    color: #ff7200;
+}
+
+section nav .social_icon i{
+    margin: 0 5px;
+    font-size: 18px;
+}
+
+section nav .social_icon i:hover{
+    color:#ff7200;
+    cursor: pointer;
+}
+
+section .main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 10%;
+}
+
+section .main h1{
+    position: relative;
+    font-size: 55px;
+    top: 80px;
+    left: 25px;
+    color: #fff;
+}
+
+section .main h1 span{
+    color: #ff7200;
+}
+
+section .main p{
+    width: 650px;
+    text-align: justify;
+    line-height: 22px;
+    position: relative;
+    top: 125px;
+    left: 25px;
+    color: #fff;
+}
+
+section .main .main_tag .main_btn{
+    background: #ff7200;
+    padding: 10px 20px;
+    position: relative;
+    top: 200px;
+    left: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+section .main .main_img img{
+    width: 780px;
+    position: relative;
+    top: 90px;
+    left: 20px;
+}
+
+    
+    </style>
+    
+</head>
+<body>
+    <section class="main">
+
+        <nav>
+
+            <div class="logo">
+                <img src="image/logo.png">
+            </div>
+
+            <ul>
+                <li><a href="home.php">Home</a></li>
+                <li><a href="listesdynamique.php">Livres</a></li>
+                <li><a href="reglement.php">Règles</a></li>
+                
+                <li><a href="myaccount.php">My account</a></li>
+                <li><a href="settings.php">Setting</a></li>
+                <li><a href="signin.php">Se déconnecter <i class='fas fa-sign-out-alt'></i> </li>
+                <li><a href="#"></a></li>
+                
+            </ul>
+
+            <div class="social_icon">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                
+            </div>
+
+        </nav>
+
+    <div class="moderncss">
+        <div class="image">
+            <img src="image/moderncss.jpg" alt="Description de l'image">
+        </div>
+        <div class="description">
+
+            <h3>Titre de livre: Moderncss</h3>
+            <h3>Nombre de pages: 289</h3>
+            <h3>Publication : Octobre 2020</h3>
+            <h3> Format : Broche</h3>
+            <h3>Editeur : Apress</h3>
+            <h3> Langue : Anglais</h3>
+            <h3> Auteur : Attardi</h3>
+            <p>Come on a tour of modern CSS in 2020 This example-driven book demonstrates the concepts by showing code examples, screenshots, and diagrams to help clearly communicate the information..</p>
+        </div>
+
+
+
+</body>
+</html>
