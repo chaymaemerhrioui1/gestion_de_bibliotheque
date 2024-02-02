@@ -27,8 +27,6 @@ Et Voici ce qui est affiché lorsque l'utilisateur est connecté :
 ![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/78d67b71-9ba5-454e-a724-14f8f168ac90)
 
 ## Dans la première boutton "Home  "
-![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/c615cc4e-34d7-4422-a47e-065120fd0345)
-
 
 L'utilisateur peut consilter les livres dispnible dans notre site , et les auteures et la localisation , et il peut aussi ajouter des commentaires. 
 
