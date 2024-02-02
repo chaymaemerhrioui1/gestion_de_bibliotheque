@@ -24,7 +24,8 @@ On trouve une page de créer un nouveaux compte :
 
 Et Voici ce qui est affiché lorsque l'utilisateur est connecté : 
 
-![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/78d67b71-9ba5-454e-a724-14f8f168ac90)
+![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/15236e35-30fe-4d50-b075-e1edfde5703b)
+
 
 ## Dans la première boutton "Home  "
 
