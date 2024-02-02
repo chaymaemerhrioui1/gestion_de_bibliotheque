@@ -31,9 +31,9 @@ Et Voici ce qui est affiché lorsque l'utilisateur est connecté :
 
 L'utilisateur peut consilter les livres dispnible dans notre site , et les auteures et la localisation , et il peut aussi ajouter des commentaires. 
 
-![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/3de03619-0830-494d-8bc4-0756934489ca)
-
 ![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/8d91ae49-e9c3-4b00-a956-6e7a5846e345)
+
+![image](https://github.com/chaymaemerhrioui1/gestion_de_bibliotheque/assets/128318349/3de03619-0830-494d-8bc4-0756934489ca)
 
 et le commentaire enregistre dans la base de donnée 
 
