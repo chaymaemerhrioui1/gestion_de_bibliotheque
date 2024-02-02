@@ -113,3 +113,6 @@ Cette utilisateur est devenue admin elle peut se connecter et faire les fonction
 ## Dans la sisième boutton "Se deconnecter "
 
 l'utilisateur quitte totalement le site et ne peux pas revenir en arrière , il faut qu'il se connecte une deuxième fois 
+
+
+# FIN , Mercii ❤️❤️
